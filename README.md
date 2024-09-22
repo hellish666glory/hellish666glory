@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Currently studying in Siberian state automobile and highway university for Information Security specialty, doing courses for Frontend and AI development. Working as technical specialist in an SMM-company helping to manage add placement on web-sites and web-apps. Specializing on working with HTML, CSS, JS/TS and also such frameworks as React and Vue.js. Practiced in administrating servers on Windows Server and Debian Linux. 
+
 <!--
 **hellish666glory/hellish666glory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
